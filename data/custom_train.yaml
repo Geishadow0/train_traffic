@@ -1,0 +1,6 @@
+train: /content/traindata/train_data/images/train
+val: /content/traindata/train_data/images/val
+
+# Classes
+names:
+  0: pothole
